@@ -1,0 +1,26 @@
+{
+  "name": "SAMTINK AI",
+  "short_name": "SAMTINK AI",
+  "description": "An interactive AI chatbot powered by Google Gemini, designed for helpful conversations and smart assistance.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
